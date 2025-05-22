@@ -1,6 +1,5 @@
 # assignment-week-1
 fnb app academy
-
 <!DOCTYPE html>
 <html>
 <head>
